@@ -30,15 +30,3 @@ This repository contains the source code for a chatbot built using the Gemini la
 **Contributing:**
 
 We welcome contributions to this project! Please refer to the CONTRIBUTING.md file for guidelines.
-
-**License:**
-
-This project is licensed under the license name and link to license text, e.g., MIT License: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT).
-
-**Additional Notes:**
-
-* Consider adding screenshots or GIFs demonstrating the chatbot's features.
-
-**Please note:**
-
-* Customize the content to reflect your specific implementation details and functionalities. Replace the bracketed placeholders with your actual information and library names.
