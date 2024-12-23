@@ -28,7 +28,7 @@ const ChatScreen = () => {
   const textColor = colorScheme === 'dark' ? 'white' : 'black';
 
   const handleSendMessage = async (message: string) => {
-    const genAI = new GoogleGenerativeAI('AIzaSyCxI9SjzCYUhUWyjt-qAaVl4pmUrIHaFjM');
+    const genAI = new GoogleGenerativeAI('AIzaSyAwbDRT2evHU0CH3004xgdTEM03q_0JAmU');
     const model = genAI.getGenerativeModel({ model: MODEL_NAME });
 
     const generationConfig = {

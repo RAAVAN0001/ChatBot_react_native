@@ -12,7 +12,8 @@ const {
 require('dotenv').config();
 
 const MODEL_NAME = "gemini-1.0-pro";
-const API_KEY = process.env.API_KEY
+// const API_KEY = process.env.API_KEY
+const API_KEY = 'AIzaSyAxDQfUsIWiXzASuDvWVftZRjSFVsDQnIk'
 
 async function runChat() {
     const genAI = new GoogleGenerativeAI('AIzaSyCxI9SjzCYUhUWyjt-qAaVl4pmUrIHaFjM');
